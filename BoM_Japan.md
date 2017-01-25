@@ -6,8 +6,8 @@ Make sure you have an Arduino Leonardo or equivalent microprocessor. Also get en
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|2|Power resistors|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=1292531&storeId=10168)|0.64|
-|2|2|10K NTC thermistor| [Farnell](http://nl.farnell.com/avx/nd06p00103k/thermistor-ntc-10kohm-10-radial/dp/1672384), [HackerStore](https://www.hackerstore.nl/Artikel/156), [iPrototype](https://iprototype.nl/products/components/sensors/thermistor)|0.27|
+|1|2|セメント抵抗|[Monotaro](https://www.monotaro.com/g/02315291)[Akizuki](http://akizukidenshi.com/catalog/g/gR-03719/)|0.64|
+|2|2|10kΩ NTK サーミスタ| [RS Online](http://jp.rs-online.com/web/p/thermistors/7062759/)|0.27|
 |3|1|Rotary encoder|[Farnell](http://nl.farnell.com/alps/ec12e1240406/encoder-vertical-12mm-12det-12ppr/dp/2065052), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rotary-encoder), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=9553)|0.42|
 |4|1|Knob|[Farnell](http://nl.farnell.com/multicomp/cr-r4-7/knob-soft-touch-d-shaft-black/dp/1440012?ost=1440012)|0.23|
 |5|1|Power switch|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=4710368&storeId=10168), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|0.71|
