@@ -6,7 +6,7 @@ Make sure you have an Arduino Leonardo or equivalent microprocessor. Also get en
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|2|セメント抵抗|[Monotaro](https://www.monotaro.com/g/02315291)[Akizuki](http://akizukidenshi.com/catalog/g/gR-03719/)|0.64|
+|1|2|セメント抵抗|[Monotaro](https://www.monotaro.com/g/02315291), [Akizuki](http://akizukidenshi.com/catalog/g/gR-03719/)|0.64|
 |2|2|10kΩ NTK サーミスタ| [RS Online](http://jp.rs-online.com/web/p/thermistors/7062759/)|0.27|
 |3|1|ポテンショメータ|[Monotaro](https://www.monotaro.com/g/00365937/)|0.42|
 |4|1|ツマミ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-03133)|0.23|
