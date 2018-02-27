@@ -13,7 +13,7 @@ Make sure you have an Arduino Leonardo (_Why Arduino Leonardo? What about a Ardu
 |5|1|ロッカースイッチ, Power switch|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/), [Monotaro](https://www.monotaro.com/g/00163769/)|0.71|
 |6|1|DCジャック, DC power jack|[Akizuki](http://akizukidenshi.com/catalog/g/gC-06342/)|¥60|
 |7|1|12V 5A 電源, Power supply|[Monotaro](https://www.monotaro.com/g/00253883/)|38.13|
-|8|1|タクトスイッチ, Push button, 24 V, 50 mA|[Amazon](http://amzn.asia/3wFFCNf), [Monotaro](https://www.monotaro.com/g/01030421/)|0.47|
+|8|1|タクトスイッチ, Push button|[Akizuki](http://akizukidenshi.com/catalog/g/gP-11243/), [Amazon](http://amzn.asia/3wFFCNf), [Monotaro](https://www.monotaro.com/g/01030421/)|¥10|
 |9|4|抵抗 10kΩ, 10KΩ resistor|[Akizuki](http://akizukidenshi.com/catalog/g/gR-25103/)|0.03|
 |10|4|ゴム足, Rubber feet|[Amazon](http://amzn.asia/bm0HBuH), [RS Online](http://jp.rs-online.com/web/p/fixed-height-mounts-feet/4171796/)|¥399|
 |11|1|I2C LCD 液晶, I2C LCD display|[Akizuki](http://akizukidenshi.com/catalog/g/gK-08896/)|¥550|
