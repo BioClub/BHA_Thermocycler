@@ -2,12 +2,11 @@
 
 Make sure you have an Arduino Leonardo (_Why Arduino Leonardo? What about a Arduino Uno R3?_) or equivalent microprocessor. Also get enough 3mm material to cut the parts from and a bunch of M3 10mm bots and nuts.
 
-### Components that are needed without using a Biohack Board
 
 |No|Amount|Description|Supplier JP|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|2|Power resistors, セメント抵抗, 10Ω, 350V, 7W|[Monotaro](https://www.monotaro.com/g/02315291), [Akizuki](http://akizukidenshi.com/catalog/g/gR-03719/)|¥50 * 2, ¥100|
-|2|2|10kΩ NTK サーミスタ, 10K NTC thermistor| [Akizuki](http://akizukidenshi.com/catalog/g/gP-05251/), [RS Online](http://jp.rs-online.com/web/p/thermistors/7062759/)|¥200 (Pack of 5)|
+|2|2|デジタル温度センサ(1wire)DS18B20+, Digital Temperature Sensor DS18B20| [Akizuki](http://akizukidenshi.com/catalog/g/gI-05276/)|¥250 * 2, ¥500|
 |3|1|ポテンショメータ, Rotary encoder, 12mm, Vertical, 12 Detents, 12 Pulses|[Akizuki](http://akizukidenshi.com/catalog/g/gP-06357/), [Monotaro](https://www.monotaro.com/g/00365937/)|¥80|
 |4|1|ツマミ, Knob|[Akizuki](http://akizukidenshi.com/catalog/g/gP-03133)|0.23|
 |5|1|ロッカースイッチ, Power switch|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/), [Monotaro](https://www.monotaro.com/g/00163769/)|0.71|
